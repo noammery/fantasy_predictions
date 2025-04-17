@@ -66,10 +66,11 @@ function App() {
     );
   }
   return (
-    <Box sx={{ padding: 4, overflowX: "auto" }}>
+    <Box sx={{ padding: 4 }}>
       <Typography variant="h4" gutterBottom>
         Tamir's Crazy Accurate Fantasy Predictions
       </Typography>
+
       <Box className="intro-banner">
         <Typography variant="h5" className="intro-title">
           Welcome to the Ultimate Fantasy Football Predictor 🧠⚽
@@ -81,55 +82,65 @@ function App() {
           Fearless forever.
         </Typography>
       </Box>
-      <MaterialReactTable
-        defaultColumn={{
-          minSize: isMobile ? 60 : 100,
-          size: isMobile ? 60 : 120,
-          maxSize: isMobile ? 60 : 300,
-        }}
-        enableColumnActions={false}
-        columns={columns}
-        data={data}
-        enablePagination={false}
-        enableColumnPinning
-        enableRowVirtualization
-        initialState={{
-          columnPinning: {
-            left: ["Name", "Last Name"],
-          },
-        }}
-        enableFilters
-        enableSorting
-        muiTableContainerProps={{
-          sx: {
-            maxHeight: "70vh",
-            overflowY: "auto",
-            minWidth: "1000px",
-          },
-        }}
-        muiTableHeadProps={{
-          sx: {
-            position: "sticky",
-            top: 0,
-            zIndex: 2,
-          },
-        }}
-        muiTableHeadCellProps={{
-          sx: {
-            whiteSpace: "nowrap",
-            padding: "4px",
-            maxWidth: 150,
-          },
-        }}
-        muiTableBodyCellProps={({ row }) => ({
-          sx: {
-            backgroundColor: teamColors[row.original.Team] || "transparent",
-            whiteSpace: "nowrap",
-            padding: "4px",
-            maxWidth: 150,
-          },
-        })}
-      />
+
+      <Box sx={{ overflowX: "auto" }}>
+        <Box sx={{ minWidth: "1800px" }}>
+          {" "}
+          {/* force full width once */}
+          <MaterialReactTable
+            defaultColumn={{
+              minSize: isMobile ? 60 : 100,
+              size: isMobile ? 70 : 120,
+              maxSize: isMobile ? 90 : 300,
+            }}
+            enableColumnActions={false}
+            enableColumnPinning
+            enableRowVirtualization
+            enableColumnVirtualization={true} // ✅ keep it fast
+            columns={columns}
+            data={data}
+            enablePagination={false}
+            initialState={{
+              columnPinning: {
+                left: ["Name", "Last Name"],
+              },
+            }}
+            enableFilters
+            enableSorting
+            muiTableContainerProps={{
+              sx: {
+                maxHeight: "70vh",
+                overflowY: "auto",
+                overflowX: "auto",
+              },
+            }}
+            muiTableHeadProps={{
+              sx: {
+                position: "sticky",
+                top: 0,
+                zIndex: 2,
+              },
+            }}
+            muiTableHeadCellProps={{
+              sx: {
+                whiteSpace: "nowrap",
+                padding: "4px",
+                maxWidth: 150,
+                fontWeight: "bold",
+              },
+            }}
+            muiTableBodyCellProps={({ row }) => ({
+              sx: {
+                backgroundColor: teamColors[row.original.Team] || "transparent",
+                whiteSpace: "nowrap",
+                padding: "4px",
+                maxWidth: 150,
+                fontWeight: "bold",
+              },
+            })}
+          />
+        </Box>
+      </Box>
     </Box>
   );
 }
