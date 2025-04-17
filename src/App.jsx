@@ -87,10 +87,10 @@ function App() {
           size: isMobile ? 60 : 120,
           maxSize: isMobile ? 60 : 300,
         }}
+        enableColumnActions={false}
         columns={columns}
         data={data}
         enablePagination={false}
-        enableColumnOrdering
         enableColumnPinning
         enableRowVirtualization
         initialState={{
