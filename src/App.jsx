@@ -91,13 +91,18 @@ function App() {
         enableColumnActions={false}
         enableColumnPinning
         enableRowVirtualization
+        virtualizerProps={{
+          measureElement: (el) => {
+            return el?.getBoundingClientRect().height || 48; // fallback height
+          },
+        }}
         enableColumnVirtualization={true} // ✅ keep it fast
         columns={columns}
         data={data}
         enablePagination={false}
         initialState={{
           columnPinning: {
-            left: ["Name", "Last Name"],
+            left: ["Name"],
           },
         }}
         enableFilters
