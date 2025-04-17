@@ -1,0 +1,799 @@
+Name,Last Name,Cost Today,Position,Team,Games,Total Bonus Points,Is there,28,29,30,31,32,33,34,35,36,37,38,2 cycles,3 cycles,4 cycles,5 cycles,All cycles,Part cycles,Cycle average
+Fábio,Fábio Vieira,?5.40,MID,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Gabriel,G.Jesus,?6.50,FWD,Arsenal,17,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.471
+Gabriel,Gabriel,?6.20,DEF,Arsenal,28,9,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.179
+Kai,Havertz,?7.70,FWD,Arsenal,21,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.571
+Karl,Hein,?4.00,GK,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jurriën,J.Timber,?5.70,DEF,Arsenal,29,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.793
+Jorge Luiz,Jorginho,?4.60,MID,Arsenal,14,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.357
+Jakub,Kiwior,?4.80,DEF,Arsenal,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.727
+Gabriel,Martinelli,?6.50,MID,Arsenal,27,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.741
+Ethan,Nwaneri,?4.50,MID,Arsenal,22,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.545
+Martin,?degaard,?8.20,MID,Arsenal,24,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.292
+David,Raya,?5.50,GK,Arsenal,32,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.844
+Declan,Rice,?6.20,MID,Arsenal,30,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.233
+Bukayo,Saka,?10.50,MID,Arsenal,19,18,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,6.158
+William,Saliba,?6.50,DEF,Arsenal,30,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4
+Thomas,Thomas,?4.90,MID,Arsenal,30,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.233
+Kieran,Tierney,?4.30,DEF,Arsenal,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.625
+Tomiyasu,Tomiyasu,?4.80,DEF,Arsenal,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Leandro,Trossard,?6.70,MID,Arsenal,32,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.5
+Benjamin,White,?6.10,DEF,Arsenal,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.583
+Oleksandr,Zinchenko,?4.80,DEF,Arsenal,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.273
+Norberto,Neto,?4.10,GK,Arsenal,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.5
+Raheem,Sterling,?6.70,MID,Arsenal,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.615
+Riccardo,Calafiori,?5.80,DEF,Arsenal,17,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.176
+Myles,Lewis-Skelly,?4.50,MID,Arsenal,17,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.588
+Mikel,Merino,?6.10,MID,Arsenal,24,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.375
+Salah-Eddine,Oulad M'hand,?4.50,MID,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tommy,Setford,?4.50,GK,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Maldini,Kacurri,?4.00,DEF,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ismeal,Kabia,?4.50,MID,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Josh,Nichols,?4.00,DEF,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nathan,Butler-Oyedeji,?4.50,FWD,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mikel,Arteta,?1.50,#N/A,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jack,Porter,?4.00,GK,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jimi,Gower,?4.50,MID,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jack,Jack Henry-Francis,?4.50,MID,Arsenal,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Leon,Bailey,?6.20,MID,Aston Villa,23,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Ross,Barkley,?5.20,MID,Aston Villa,16,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.5
+Enzo,Barrenechea,?4.90,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Emiliano,Buendia,?5.10,MID,Aston Villa,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.917
+Matty,Cash,?4.40,DEF,Aston Villa,21,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.524
+Leander,Dendoncker,?4.50,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Moussa,Diaby,?6.50,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Diego Carlos,Diego Carlos,?4.50,DEF,Aston Villa,10,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.1
+Lucas,Digne,?4.50,DEF,Aston Villa,29,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.793
+Lewis,Dobbin,?5.00,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jhon,Duran,?5.70,FWD,Aston Villa,20,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.65
+Joe,Gauci,?4.00,GK,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kortney,Hause,?3.90,DEF,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Samuel,Iling Jr,?5.40,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Boubacar,Kamara,?5.00,MID,Aston Villa,19,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.842
+Kaine,Kesler-Hayden,?4.00,DEF,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ezri,Konsa,?4.40,DEF,Aston Villa,28,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.607
+Ian,Maatsen,?4.50,DEF,Aston Villa,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.522
+Filip,Marschall,?4.00,GK,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Emiliano,Martinez,?5.00,GK,Aston Villa,31,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.774
+John,McGinn,?5.20,MID,Aston Villa,28,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.214
+Tyrone,Mings,?4.40,DEF,Aston Villa,12,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.25
+Kosta,Nedeljkovic,?3.90,DEF,Aston Villa,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Robin,Olsen,?4.50,GK,Aston Villa,3,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Pau,Pau,?4.20,DEF,Aston Villa,19,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.105
+Jacob,Ramsey,?5.40,MID,Aston Villa,24,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.458
+Morgan,Rogers,?5.60,MID,Aston Villa,31,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.452
+Viljami,Sinisalo,?4.00,GK,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Lino,Sousa,?4.00,DEF,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Youri,Tielemans,?5.50,MID,Aston Villa,32,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.125
+Ollie,Watkins,?8.90,FWD,Aston Villa,32,26,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.875
+Axel,Disasi,?4.20,DEF,Aston Villa,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Amadou,Onana,?4.80,MID,Aston Villa,20,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.35
+Marcus,Rashford,?6.70,MID,Aston Villa,23,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.739
+Lamare,Bogarde,?3.90,DEF,Aston Villa,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.75
+Sil,Swinkels,?4.00,DEF,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Oliwier,Zych,?4.00,GK,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kadan,Young,?4.40,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ben,Broggio,?4.50,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jamaldeen,Jimoh,?4.50,MID,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Donyell,Malen,?5.30,MID,Aston Villa,9,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.222
+Andrés,A. Garcia,?4.50,DEF,Aston Villa,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.143
+Unai,Emery,?0.80,#N/A,Aston Villa,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Marco,M.Asensio,?6.20,MID,Aston Villa,7,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.857
+Max,Aarons,?4.30,DEF,Bournemouth,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Tyler,Adams,?4.90,MID,Bournemouth,22,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.091
+Jaidon,Anthony,?4.50,MID,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+David,Brooks,?4.90,MID,Bournemouth,24,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.875
+Ryan,Christie,?4.90,MID,Bournemouth,29,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.621
+Lewis,Cook,?5.00,MID,Bournemouth,31,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.484
+Enes,Enes Ünal,?5.40,FWD,Bournemouth,17,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.882
+Romain,Faivre,?5.00,MID,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Hamed,H.Traorè,?4.50,MID,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+James,Hill,?3.90,DEF,Bournemouth,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.7
+Daniel,Jebbison,?4.50,FWD,Bournemouth,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.909
+Milos,Kerkez,?5.30,DEF,Bournemouth,32,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.563
+Justin,Kluivert,?6.00,MID,Bournemouth,28,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.25
+Chris,Mepham,?4.40,DEF,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Dango,O.Dango,?4.80,MID,Bournemouth,29,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.655
+Alex,Paulsen,?4.00,GK,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Philip,Philip,?4.80,MID,Bournemouth,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Alex,Scott,?4.70,MID,Bournemouth,15,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Antoine,Semenyo,?5.70,MID,Bournemouth,31,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.161
+Marcos,Senesi,?4.60,DEF,Bournemouth,14,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.643
+Luis,Sinisterra,?4.80,MID,Bournemouth,12,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.917
+Adam,Smith,?4.40,DEF,Bournemouth,20,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.1
+Marcus,Tavernier,?5.40,MID,Bournemouth,23,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.174
+Mark,Travers,?4.40,GK,Bournemouth,5,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.8
+Illia,Zabarnyi,?4.40,DEF,Bournemouth,30,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.267
+Kepa,Arrizabalaga,?4.60,GK,Bournemouth,25,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.4
+Dean,Huijsen,?4.50,DEF,Bournemouth,26,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.154
+Julián,J.Araujo,?4.30,DEF,Bournemouth,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Will,Dennis,?3.90,GK,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Francisco Evanilson,Evanilson,?5.80,FWD,Bournemouth,25,19,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.48
+Max,Kinsey,?4.00,DEF,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ben,Winterburn,?4.50,MID,Bournemouth,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Archie,Harris,?4.00,DEF,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Remy,Rees-Dottin,?4.50,FWD,Bournemouth,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Matai,Akinmboni,?4.00,DEF,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Julio,Soler,?3.90,DEF,Bournemouth,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Daniel,Adu-Adjei,?4.50,FWD,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Dominic,Sadi,?4.50,MID,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Callan,McKenna,?4.00,GK,Bournemouth,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Zain,Silcott-Duberry,?4.50,MID,Bournemouth,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Andoni,Iraola,?1.10,#N/A,Bournemouth,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kristoffer,Ajer,?4.40,DEF,Brentford,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.947
+Ethan,Brierley,?4.40,MID,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nathan,Collins,?4.50,DEF,Brentford,33,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.152
+Mikkel,Damsgaard,?5.00,MID,Brentford,32,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.563
+Josh,Dasilva,?4.80,MID,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mark,Flekken,?4.40,GK,Brentford,31,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.516
+Rico,Henry,?4.30,DEF,Brentford,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Aaron,Hickey,?4.30,DEF,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Vitaly,Janelt,?4.80,MID,Brentford,31,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.323
+Mathias,Jensen,?5.30,MID,Brentford,18,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.667
+Kim,Ji-soo,?3.90,DEF,Brentford,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Yunus Emre,Konak,?4.40,MID,Brentford,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Keane,Lewis-Potter,?5.00,MID,Brentford,32,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.531
+Bryan,Mbeumo,?8.00,MID,Brentford,32,25,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,6
+Ben,Mee,?4.20,DEF,Brentford,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.286
+Christian,N?rgaard,?4.80,MID,Brentford,28,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.821
+Frank,Onyeka,?4.90,MID,Brentford,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Myles,Peart-Harris,?4.50,MID,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ethan,Pinnock,?4.40,DEF,Brentford,22,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.136
+Mads,Roerslev,?4.30,DEF,Brentford,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.895
+Kevin,Schade,?5.10,MID,Brentford,32,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.438
+Igor Thiago,Thiago,?5.90,FWD,Brentford,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.25
+Ivan,Toney,?7.30,FWD,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Hákon,Valdimarsson,?3.90,GK,Brentford,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Yoane,Wissa,?6.50,FWD,Brentford,29,26,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.103
+Yehor,Yarmoliuk,?4.30,MID,Brentford,26,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.192
+Mathias,Zanka,?4.50,DEF,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Fábio,Carvalho,?4.50,MID,Brentford,19,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.842
+Sepp,Van den Berg,?4.10,DEF,Brentford,26,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.769
+Ryan,Trevitt,?4.40,MID,Brentford,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Gustavo,G.Nunes,?4.90,MID,Brentford,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Jayden,Meghoma,?4.00,DEF,Brentford,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Tony,Yogane,?4.50,MID,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Paris,Maghoma,?4.50,MID,Brentford,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Benjamin,Arthur,?4.00,DEF,Brentford,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Thomas,Frank,?0.80,#N/A,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Michael,Kayode,?4.50,DEF,Brentford,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Julian,Eyestone,?4.00,GK,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Iwan,Morgan,?4.50,FWD,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Benjamin,Benjamin Fredrick,?4.00,DEF,Brentford,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Simon,Adingra,?5.10,MID,Brighton,24,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.958
+Benicio,Baker-Boaitey,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Carlos,Baleba,?5.00,MID,Brighton,28,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.357
+Valentín,Barco,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Amario,Cozier-Duberry,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mahmoud,Dahoud,?4.90,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Lewis,Dunk,?4.20,DEF,Brighton,22,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.864
+Pervis,Estupiñan,?4.90,DEF,Brighton,25,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.12
+Billy,Gilmour,?5.00,MID,Brighton,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Pascal,Gross,?6.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jack,Hinshelwood,?4.90,MID,Brighton,20,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.75
+Ibrahim,I.Osman,?5.00,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Igor Julio,Igor,?4.30,DEF,Brighton,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.417
+João Pedro,João Pedro,?5.60,FWD,Brighton,26,26,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.885
+Kacper,Kozlowski,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tariq,Lamptey,?4.40,DEF,Brighton,13,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.077
+Solly,March,?6.50,MID,Brighton,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.667
+Adrian,Mazilu,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+James,Milner,?5.00,MID,Brighton,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.667
+Yankuba,Minteh,?5.00,MID,Brighton,26,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.192
+Mitoma,Mitoma,?6.40,MID,Brighton,31,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.935
+Jakub,Moder,?4.40,MID,Brighton,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Mark,O’Mahony,?4.50,FWD,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Odeluga,Offiah,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Cameron,Peupion,?4.40,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jeremy,Sarmiento,?4.90,MID,Brighton,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Jason,Steele,?4.00,GK,Brighton,2,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.5
+Deniz,Undav,?5.50,FWD,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jan Paul,Van Hecke,?4.50,DEF,Brighton,29,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.621
+Joël,Veltman,?4.30,DEF,Brighton,19,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.053
+Bart,Verbruggen,?4.60,GK,Brighton,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.867
+Adam,Webster,?4.30,DEF,Brighton,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.364
+Danny,Welbeck,?5.50,FWD,Brighton,25,18,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.12
+Mats,Wieffer,?4.70,MID,Brighton,19,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.684
+Brajan,Gruda,?5.40,MID,Brighton,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.438
+Yasin,Ayari,?5.00,MID,Brighton,27,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.926
+Andrew,Moran,?5.00,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Carl,Rushworth,?3.90,GK,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Georginio,Georginio,?5.00,MID,Brighton,28,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.393
+Ferdi,F.Kad?o?lu,?4.40,DEF,Brighton,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.167
+Matt,O'Riley,?5.50,MID,Brighton,15,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Imari,Samuels,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Killian,Cahill,?3.90,GK,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ruairi,McConville,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jacob,Slater,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Diego,Gómez,?5.50,MID,Brighton,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Fabian,Hürzeler,?1.10,#N/A,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Joe,Knight,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Eiran,Cashin,?4.50,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Charlie,Charlie Tasker,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Freddie,Freddie Simmonds,?4.00,DEF,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Harry,Harry Howell,?4.50,MID,Brighton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Andrey,Andrey Santos,?4.50,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+?ngelo Gabriel,?ngelo,?4.50,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Benoît,B.Badiashile,?4.20,DEF,Chelsea,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Lucas,Bergström,?3.90,GK,Chelsea,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Marcus,Bettinelli,?3.90,GK,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Moisés,Caicedo,?4.90,MID,Chelsea,32,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.531
+Cesare,Casadei,?4.40,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Trevoh,Chalobah,?4.40,DEF,Chelsea,21,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.762
+Carney,Chukwuemeka,?4.70,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Levi,Colwill,?4.40,DEF,Chelsea,29,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.724
+Marc,Cucurella,?5.40,DEF,Chelsea,30,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.333
+David Datro,D.D.Fofana,?5.40,FWD,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Deivid Washington,Deivid,?4.90,FWD,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kiernan,Dewsbury-Hall,?5.50,MID,Chelsea,11,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.455
+Enzo,Enzo,?4.70,MID,Chelsea,30,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.6
+Conor,Gallagher,?5.90,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alfie,Gilchrist,?4.00,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Malo,Gusto,?4.90,DEF,Chelsea,28,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.964
+Reece,James,?4.80,DEF,Chelsea,13,4,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.615
+Omari,Kellyman,?4.30,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Roméo,Lavia,?4.50,MID,Chelsea,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.455
+Romelu,Lukaku,?6.30,FWD,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Malang,M.Sarr,?4.50,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Noni,Madueke,?6.00,MID,Chelsea,26,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.115
+Marc,Marc Guiu,?4.70,FWD,Chelsea,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Mykhailo,Mudryk,?6.10,MID,Chelsea,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Nicolas,N.Jackson,?7.70,FWD,Chelsea,26,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.269
+Christopher,Nkunku,?5.70,MID,Chelsea,27,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.222
+Cole,Palmer,?10.70,MID,Chelsea,31,32,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,6.194
+?or?e,Petrovi?,?4.40,GK,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Renato,Renato Veiga,?4.40,MID,Chelsea,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Robert,Sánchez,?4.50,GK,Chelsea,26,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.808
+Tosin,Tosin,?4.20,DEF,Chelsea,19,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.947
+Wesley,W.Fofana,?4.30,DEF,Chelsea,14,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.857
+Jadon,Sancho,?6.20,MID,Chelsea,26,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.077
+Pedro,Neto,?6.10,MID,Chelsea,29,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.586
+Caleb,Wiley,?4.00,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Filip,J?rgensen,?4.20,GK,Chelsea,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3
+João,João Félix,?5.90,MID,Chelsea,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Samuel,Rak-Sakyi,?4.50,MID,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tyrique,George,?4.50,MID,Chelsea,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Josh,Acheampong,?4.00,DEF,Chelsea,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Enzo,Maresca,?1.50,#N/A,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mathis,Amougou,?4.50,MID,Chelsea,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Aaron,Anselmino,?4.00,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Shumaira,Mheuka,?4.50,FWD,Chelsea,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Ishé,Samuels-Smith,?4.00,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Genesis,Genesis Antwi,?4.00,DEF,Chelsea,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Eddie,Nketiah,?5.90,FWD,Crystal Palace,23,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.478
+Ben,Chilwell,?4.60,DEF,Crystal Palace,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.833
+Naouirou,Ahamada,?4.50,MID,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Cheick,C.Doucouré,?4.80,MID,Crystal Palace,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.462
+Chris,C.Richards,?4.40,DEF,Crystal Palace,18,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.278
+Chadi,Chadi Riad,?4.30,DEF,Crystal Palace,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Nathaniel,Clyne,?4.30,DEF,Crystal Palace,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.385
+Malcolm,Ebiowei,?4.50,MID,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Eberechi,Eze,?6.90,MID,Crystal Palace,27,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.852
+Marc,Guéhi,?4.70,DEF,Crystal Palace,29,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.517
+Dean,Henderson,?4.60,GK,Crystal Palace,31,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.613
+Rob,Holding,?4.20,DEF,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Will,Hughes,?4.90,MID,Crystal Palace,26,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.115
+Daichi,Kamada,?5.10,MID,Crystal Palace,28,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.286
+Jefferson,Lerma,?4.80,MID,Crystal Palace,27,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.778
+Jean-Philippe,Mateta,?7.80,FWD,Crystal Palace,30,24,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.433
+Matheus,M.França,?4.40,MID,Crystal Palace,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.5
+Remi,Matthews,?3.90,GK,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tyrick,Mitchell,?4.80,DEF,Crystal Palace,31,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.226
+Daniel,Muñoz,?5.30,DEF,Crystal Palace,30,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.067
+David,Ozoh,?4.50,MID,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jesurun,Rak-Sakyi,?4.50,MID,Crystal Palace,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jeffrey,Schlupp,?4.60,MID,Crystal Palace,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Joel,Ward,?4.30,DEF,Crystal Palace,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Adam,Wharton,?4.70,MID,Crystal Palace,16,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.875
+Matt,Turner,?3.90,GK,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ismaïla,I.Sarr,?5.80,MID,Crystal Palace,31,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.935
+Franco,Umeh-Chibueze,?4.40,MID,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Justin,Devenny,?4.50,MID,Crystal Palace,17,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.471
+Asher,Agbinone,?4.50,MID,Crystal Palace,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Kaden,Rodney,?4.50,MID,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Maxence,Lacroix,?4.50,DEF,Crystal Palace,28,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.429
+Caleb,Kporha,?4.00,DEF,Crystal Palace,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Zach,Marsh,?4.50,FWD,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Romain,Esse,?4.70,MID,Crystal Palace,2,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.5
+Oliver,Glasner,?0.80,#N/A,Crystal Palace,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Armando,Broja,?5.30,FWD,Everton,9,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.111
+Abdoulaye,A.Doucoure,?5.10,MID,Everton,28,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.893
+Norberto Bercique,Beto,?4.90,FWD,Everton,24,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.75
+Jarrad,Branthwaite,?4.80,DEF,Everton,25,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.04
+Dominic,Calvert-Lewin,?5.40,FWD,Everton,22,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.682
+Séamus,Coleman,?4.30,DEF,Everton,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Idrissa,Gana,?4.80,MID,Everton,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.533
+James,Garner,?4.90,MID,Everton,15,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Jack,Harrison,?5.20,MID,Everton,28,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.464
+Mason,Holgate,?4.00,DEF,Everton,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Tim,Iroegbunam,?4.30,MID,Everton,15,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.333
+João,J.Virginia,?3.90,GK,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Michael,Keane,?3.80,DEF,Everton,10,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.3
+Neal,Maupay,?4.90,FWD,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Dwight,McNeil,?5.10,MID,Everton,15,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.667
+Vitalii,Mykolenko,?4.30,DEF,Everton,29,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.207
+Iliman,Ndiaye,?5.20,FWD,Everton,27,18,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.444
+Nathan,Patterson,?4.40,DEF,Everton,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.125
+Jordan,Pickford,?5.10,GK,Everton,32,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.094
+James,Tarkowski,?4.90,DEF,Everton,33,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.152
+Youssef,Y. Chermiti,?4.90,FWD,Everton,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Ashley,Young,?4.30,DEF,Everton,27,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.037
+Carlos,Alcaraz,?4.80,MID,Everton,10,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Jesper,Lindstr?m,?5.00,MID,Everton,24,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.833
+Jake,O'Brien,?4.50,DEF,Everton,15,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.267
+Harrison,Armstrong,?4.40,MID,Everton,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.667
+Jenson,Metcalfe,?4.50,MID,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Asmir,Begovic,?4.00,GK,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Roman,Dixon,?4.00,DEF,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Orel,Mangala,?5.00,MID,Everton,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.053
+Callum,Bates,?4.50,MID,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Martin,Sherif,?4.50,FWD,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+David,Moyes,?0.50,#N/A,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Isaac,Heath,?4.50,MID,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Coby,Coby Ebere,?4.50,MID,Everton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Reiss,Nelson,?5.00,MID,Fulham,12,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.25
+Emile,Smith Rowe,?5.10,MID,Fulham,29,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.379
+Joachim,Andersen,?4.20,DEF,Fulham,24,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.833
+Adama,Adama,?4.50,MID,Fulham,30,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.567
+Andreas,Andreas,?4.90,MID,Fulham,28,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.643
+Calvin,Bassey,?4.50,DEF,Fulham,30,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Steven,Benda,?3.90,GK,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tom,Cairney,?4.80,MID,Fulham,20,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.1
+Timothy,Castagne,?4.20,DEF,Fulham,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.957
+Issa,Diop,?4.30,DEF,Fulham,21,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.476
+Luke,Harris,?4.50,MID,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alex,Iwobi,?5.50,MID,Fulham,32,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.25
+Bernd,Leno,?5.00,GK,Fulham,32,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.094
+Sa?a,Luki?,?4.80,MID,Fulham,26,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.769
+Kevin,Mbabu,?4.00,DEF,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Rodrigo,Muniz,?5.50,FWD,Fulham,31,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.774
+Raúl,Raúl,?5.40,FWD,Fulham,32,20,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.813
+Tim,Ream,?4.50,DEF,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Harrison,Reed,?4.70,MID,Fulham,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.818
+Antonee,Robinson,?4.90,DEF,Fulham,32,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.156
+Jay,Stansfield,?5.00,FWD,Fulham,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Kenny,Tete,?4.40,DEF,Fulham,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.375
+Carlos Vinícius,Vinicius,?5.00,FWD,Fulham,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Harry,Wilson,?5.20,MID,Fulham,19,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.316
+Ryan,Sessegnon,?4.10,DEF,Fulham,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.2
+Jorge,J.Cuenca,?4.40,DEF,Fulham,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.167
+Josh,King,?4.40,MID,Fulham,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Martial,Godo,?4.40,MID,Fulham,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Sander,Berge,?5.00,MID,Fulham,26,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.769
+Samuel,Amissah,?4.00,DEF,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Marco Alexandre,Silva,?1.10,#N/A,Fulham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Willian,Willian,?5.00,MID,Fulham,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.286
+Julio,Enciso,?5.40,MID,Ipswich,20,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.15
+Ali,Al-Hamadi,?4.70,FWD,Ipswich,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.727
+Elkan,Baggott,?4.00,DEF,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nathan,Broadhead,?4.90,MID,Ipswich,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.75
+Cameron,Burgess,?3.80,DEF,Ipswich,14,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.357
+Wes,Burns,?4.70,MID,Ipswich,18,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.667
+Conor,Chaplin,?5.10,MID,Ipswich,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.125
+Harry,H.Clarke,?4.00,DEF,Ipswich,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.1
+Leif,Davis,?4.20,DEF,Ipswich,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.8
+Liam,Delap,?5.60,FWD,Ipswich,31,22,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.065
+George,Edmundson,?4.00,DEF,Ipswich,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Jacob,Greaves,?3.90,DEF,Ipswich,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.684
+Marcus,Harness,?4.90,MID,Ipswich,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+George,Hirst,?5.40,FWD,Ipswich,20,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.7
+Cameron,Humphreys,?4.50,MID,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Omari,Hutchinson,?5.20,MID,Ipswich,27,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.852
+Ben,Johnson,?3.80,DEF,Ipswich,20,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.6
+Freddie,Ladapo,?4.50,FWD,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Massimo,Luongo,?4.30,MID,Ipswich,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.286
+Sam,Morsy,?4.80,MID,Ipswich,27,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.074
+Corrie,Ndaba,?4.00,DEF,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Cieran,Slicker,?3.90,GK,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jack,Taylor,?4.80,MID,Ipswich,25,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.2
+Axel,Tuanzebe,?3.90,DEF,Ipswich,17,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.294
+Christian,Walton,?4.30,GK,Ipswich,6,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Luke,Woolfenden,?3.90,DEF,Ipswich,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.231
+Kalvin,Phillips,?4.80,MID,Ipswich,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.368
+Arijanet,Muric,?4.40,GK,Ipswich,18,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.722
+Jaden,Jaden,?5.30,MID,Ipswich,21,3,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.762
+Conor,Townsend,?3.90,DEF,Ipswich,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.833
+Sam,Szmodics,?5.70,MID,Ipswich,19,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.789
+Jens,Cajuste,?4.50,MID,Ipswich,25,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.08
+Dara,O'Shea,?3.90,DEF,Ipswich,29,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.483
+Jack,J.Clarke,?5.40,MID,Ipswich,26,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.769
+Chiedozie,Ogbene,?4.80,MID,Ipswich,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Ben,Godfrey,?4.00,DEF,Ipswich,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,-0.5
+Kieran,McKenna,?0.50,#N/A,Ipswich,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alex,Palmer,?4.50,GK,Ipswich,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.875
+Facundo,Buonanotte,?4.50,MID,Leicester,27,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.407
+Jordan,J.Ayew,?5.10,MID,Leicester,26,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.269
+Odsonne,Edouard,?5.10,FWD,Leicester,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.167
+Boubakary,B.Soumaré,?4.40,MID,Leicester,25,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.52
+Tom,Cannon,?4.50,FWD,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Hamza,Choudhury,?4.40,MID,Leicester,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Conor,Coady,?4.00,DEF,Leicester,16,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.875
+Patson,Daka,?4.80,FWD,Leicester,19,2,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.526
+Bobby,De Cordova-Reid,?5.20,MID,Leicester,21,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.095
+Wout,Faes,?3.90,DEF,Leicester,28,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.321
+Michael,Golding,?4.40,MID,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mads,Hermansen,?4.40,GK,Leicester,25,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.32
+Daniel,Iversen,?3.90,GK,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+James,Justin,?4.10,DEF,Leicester,31,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.581
+Victor,Kristiansen,?4.40,DEF,Leicester,29,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.103
+Wanya,Marcal,?4.50,MID,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Stephy,Mavididi,?5.00,MID,Leicester,29,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.414
+Kasey,McAteer,?4.70,MID,Leicester,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.615
+Wilfred,Ndidi,?4.90,MID,Leicester,23,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.217
+Caleb,Okoli,?4.00,DEF,Leicester,19,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.368
+Ricardo,Ricardo,?4.10,DEF,Leicester,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Harry,Souttar,?4.00,DEF,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jakub,Stolarczyk,?4.00,GK,Leicester,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.667
+Luke,Thomas,?3.90,DEF,Leicester,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.875
+Jamie,Vardy,?5.30,FWD,Leicester,30,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.467
+Jannik,Vestergaard,?3.90,DEF,Leicester,18,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.611
+Danny,Ward,?3.90,GK,Leicester,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Harry,Winks,?4.30,MID,Leicester,22,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.818
+Oliver,Skipp,?4.70,MID,Leicester,17,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.118
+Abdul,A.Fatawu,?5.10,MID,Leicester,11,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.364
+Will,Alves,?4.40,MID,Leicester,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Ben,Nelson,?4.00,DEF,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Bilal,El Khannouss,?4.80,MID,Leicester,27,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.407
+Henry,Cartwright,?4.50,MID,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Thomas,Wilson-Brown,?4.00,DEF,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Woyo,Coulibaly,?4.00,DEF,Leicester,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.2
+Ruud,Van Nistelrooy,?0.50,#N/A,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jeremy,Monga,?4.50,MID,Leicester,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Olabade,Olabade Aluko,?4.00,DEF,Leicester,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jake,Jake Evans,?4.50,MID,Leicester,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Alisson,A.Becker,?5.50,GK,Liverpool,22,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.227
+Trent,Alexander-Arnold,?7.20,DEF,Liverpool,28,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.821
+Stefan,Bajcetic,?4.50,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Conor,Bradley,?4.70,DEF,Liverpool,14,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.071
+Bobby,Clark,?4.50,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Darwin,Darwin,?7.00,FWD,Liverpool,25,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.44
+Diogo,Diogo J.,?7.20,MID,Liverpool,21,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.905
+Ben,Doak,?4.50,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Harvey,Elliott,?5.20,MID,Liverpool,13,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.154
+Endo,Endo,?4.60,MID,Liverpool,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Cody,Gakpo,?7.30,FWD,Liverpool,29,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.414
+Joe,Gomez,?4.70,DEF,Liverpool,9,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.556
+Ryan,Gravenberch,?5.00,MID,Liverpool,32,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.531
+Curtis,Jones,?5.30,MID,Liverpool,27,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.889
+Caoimhin,Kelleher,?4.00,GK,Liverpool,10,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.5
+Ibrahima,Konaté,?5.30,DEF,Liverpool,26,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.5
+Luis,Luis Díaz,?7.50,MID,Liverpool,31,20,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.226
+Mohamed,M.Salah,?13.80,MID,Liverpool,32,51,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,9.906
+Alexis,Mac Allister,?6.20,MID,Liverpool,31,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.355
+James,McConnell,?4.30,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tyler,Morton,?4.40,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nathaniel,N.Phillips,?4.00,DEF,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jarell,Quansah,?3.90,DEF,Liverpool,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.909
+Rhys,R.Williams,?4.00,DEF,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Andrew,Robertson,?5.80,DEF,Liverpool,30,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.767
+Dominik,Szoboszlai,?6.30,MID,Liverpool,30,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.867
+Konstantinos,Tsimikas,?4.60,DEF,Liverpool,15,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Virgil,Virgil,?6.60,DEF,Liverpool,32,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.938
+Federico,Chiesa,?6.80,MID,Liverpool,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Vítezslav,Jaros,?4.00,GK,Liverpool,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Harvey,Davies,?4.00,GK,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Treymaurice,Nyoni,?4.50,MID,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Amara,Nallo,?4.00,DEF,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jayden,Danns,?4.50,FWD,Liverpool,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Arne,Slot,?1.50,#N/A,Liverpool,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Manuel,Akanji,?5.30,DEF,Man City,20,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Nathan,Aké,?5.30,DEF,Man City,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.5
+Bernardo,Bernardo,?6.10,MID,Man City,27,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.889
+Oscar,Bobb,?4.70,MID,Man City,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Scott,Carson,?3.90,GK,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kevin,De Bruyne,?9.30,MID,Man City,22,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.136
+Jérémy,Doku,?6.20,MID,Man City,23,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.13
+Ederson,Ederson M.,?5.30,GK,Man City,22,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.136
+Phil,Foden,?9.20,MID,Man City,25,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4
+Jack,Grealish,?6.40,MID,Man City,19,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.947
+Jo?ko,Gvardiol,?6.20,DEF,Man City,31,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.935
+Erling,Haaland,?14.80,FWD,Man City,28,26,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,6.107
+Julián,J.Alvarez,?7.00,FWD,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+João,João Cancelo,?5.30,DEF,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mateo,Kova?i?,?5.40,MID,Man City,26,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.577
+Rico,Lewis,?4.30,DEF,Man City,26,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.269
+Matheus Luiz,Matheus N.,?4.90,MID,Man City,21,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.429
+James,McAtee,?4.60,MID,Man City,12,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.25
+Stefan,Ortega Moreno,?5.20,GK,Man City,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.455
+Rodrigo 'Rodri',Rodrigo,?6.20,MID,Man City,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Rúben,Rúben,?5.40,DEF,Man City,21,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+John,Stones,?5.30,DEF,Man City,11,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.636
+Kyle,Walker,?5.10,DEF,Man City,14,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.929
+Sávio 'Savinho',Savinho,?6.20,MID,Man City,26,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.885
+Nico,O’Reilly,?4.90,MID,Man City,5,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.2
+Ilkay,Gündogan,?6.30,MID,Man City,28,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.357
+Issa,Kaboré,?4.50,DEF,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jacob,Wright,?4.50,MID,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jahmai,Simpson-Pusey,?4.00,DEF,Man City,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Josh,Wilson-Esbrand,?4.00,DEF,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Divin,Mubama,?4.50,FWD,Man City,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Max,Alleyne,?4.00,DEF,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Spike,Brits,?4.00,GK,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Abdukodir,Khusanov,?5.00,DEF,Man City,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Vitor,Vitor Reis,?4.50,DEF,Man City,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Pep,Guardiola,?1.50,#N/A,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Omar,Marmoush,?7.60,FWD,Man City,10,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.6
+Nico,N.Gonzalez,?6.00,MID,Man City,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.571
+Claudio,Echeverri,?5.90,MID,Man City,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Amad,Amad,?5.30,MID,Man Utd,22,14,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.864
+Antony Matheus,Antony,?5.70,MID,Man Utd,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Bruno,B.Fernandes,?8.60,MID,Man Utd,31,25,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.129
+Altay,Bayindir,?4.30,GK,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Carlos Henrique,Casemiro,?4.60,MID,Man Utd,21,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Diogo,Dalot,?5.00,DEF,Man Utd,31,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3
+Christian,Eriksen,?5.20,MID,Man Utd,18,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.778
+Jonny,Evans,?4.40,DEF,Man Utd,6,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Alejandro,Garnacho,?5.90,MID,Man Utd,31,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.839
+Hannibal,Hannibal,?4.50,MID,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tom,Heaton,?3.90,GK,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Rasmus,H?jlund,?6.90,FWD,Man Utd,27,5,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.259
+Victor,Lindelof,?4.30,DEF,Man Utd,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Harry,Maguire,?4.90,DEF,Man Utd,22,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.682
+Kobbie,Mainoo,?5.20,MID,Man Utd,19,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.737
+Tyrell,Malacia,?4.40,DEF,Man Utd,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.667
+Lisandro,Martinez,?4.30,DEF,Man Utd,20,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.4
+Scott,McTominay,?4.90,MID,Man Utd,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Mason,Mount,?6.30,MID,Man Utd,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.909
+André,Onana,?4.90,GK,Man Utd,31,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.677
+Facundo,Pellistri,?5.00,MID,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Luke,Shaw,?4.90,DEF,Man Utd,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Joshua,Zirkzee,?6.50,FWD,Man Utd,32,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Leny,Yoro,?4.30,DEF,Man Utd,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.125
+Matthijs,De Ligt,?4.80,DEF,Man Utd,28,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.429
+Noussair,Mazraoui,?4.20,DEF,Man Utd,32,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.531
+Toby,Collyer,?4.50,MID,Man Utd,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Ethan,Wheatley,?4.50,FWD,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Manuel,Ugarte,?4.90,MID,Man Utd,24,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.625
+Ayden,Heaven,?4.00,DEF,Man Utd,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Jack,Fletcher,?4.50,MID,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Harry,Amass,?4.00,DEF,Man Utd,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Jayce,Fitzgerald,?4.50,MID,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Godwill,Kukonki,?4.00,DEF,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ruben Filipe,Amorim,?0.80,#N/A,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Elyh,Harrison,?4.00,GK,Man Utd,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Patrick,Dorgu,?4.50,DEF,Man Utd,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.167
+Chido,Obi,?4.50,FWD,Man Utd,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.667
+Tyler,Fredricson,?4.00,DEF,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jack,Moorhouse,?4.50,MID,Man Utd,0,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Sékou,Koné,?4.50,MID,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Hubert,Graczyk,?4.00,GK,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Dermot,Dermot Mee,?4.00,GK,Man Utd,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alex,A.Murphy,?4.00,DEF,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Miguel,Almirón,?5.40,MID,Newcastle,9,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.111
+Harvey,Barnes,?5.90,MID,Newcastle,26,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.885
+Sven,Botman,?4.40,DEF,Newcastle,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Bruno,Bruno G.,?6.20,MID,Newcastle,31,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.742
+Dan,Burn,?4.50,DEF,Newcastle,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.767
+Martin,Dúbravka,?4.10,GK,Newcastle,10,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.4
+Anthony,Gordon,?7.40,MID,Newcastle,27,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.222
+Lewis,Hall,?4.70,DEF,Newcastle,27,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.778
+Isaac,Hayden,?4.40,MID,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alexander,Isak,?9.50,FWD,Newcastle,28,33,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,6.571
+Jacob,J.Murphy,?5.20,MID,Newcastle,28,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.536
+Joelinton Cássio,Joelinton,?6.00,MID,Newcastle,27,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.407
+Lloyd,Kelly,?4.20,DEF,Newcastle,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.2
+Emil,Krafth,?4.30,DEF,Newcastle,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Garang,Kuol,?4.40,MID,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jamaal,Lascelles,?4.50,DEF,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jamal,Lewis,?4.00,DEF,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tino,Livramento,?4.60,DEF,Newcastle,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Sean,Longstaff,?4.40,MID,Newcastle,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.391
+Lewis,Miley,?5.00,MID,Newcastle,11,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.636
+Odysseas,Odysseas,?4.20,GK,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nick,Pope,?4.90,GK,Newcastle,21,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.19
+John,Ruddy,?3.90,GK,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Fabian,Schär,?5.50,DEF,Newcastle,27,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.926
+Matt,Targett,?3.90,DEF,Newcastle,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Sandro,Tonali,?5.50,MID,Newcastle,29,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.69
+Kieran,Trippier,?5.60,DEF,Newcastle,20,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Joe,White,?4.50,MID,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Joe,Willock,?4.70,MID,Newcastle,26,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Callum,Wilson,?6.90,FWD,Newcastle,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Miodrag,Pivas,?4.00,DEF,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+William,Osula,?4.90,FWD,Newcastle,11,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Eddie,Howe,?1.50,#N/A,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Sean,Neave,?4.50,FWD,Newcastle,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+?lex,Alex Moreno,?4.20,DEF,Nottingham Forest,15,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.267
+Ola,Aina,?5.20,DEF,Nottingham Forest,30,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.1
+Elliot,Anderson,?5.00,MID,Nottingham Forest,31,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.903
+Taiwo,Awoniyi,?5.50,FWD,Nottingham Forest,22,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.318
+Willy,Boly,?4.20,DEF,Nottingham Forest,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Josh,Bowler,?4.50,MID,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Carlos Miguel,C.Miguel,?4.10,GK,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Eric,Da Silva Moreira,?4.30,MID,Nottingham Forest,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Danilo,Danilo,?4.70,MID,Nottingham Forest,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Emmanuel,Dennis,?4.90,FWD,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nicolás,Dominguez,?4.80,MID,Nottingham Forest,28,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Anthony,Elanga,?5.40,MID,Nottingham Forest,32,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.094
+Morgan,Gibbs-White,?6.50,MID,Nottingham Forest,28,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.464
+Callum,Hudson-Odoi,?5.20,MID,Nottingham Forest,27,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.667
+Alex,Mighten,?4.50,MID,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Murillo,Murillo,?4.70,DEF,Nottingham Forest,31,16,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.677
+Neco,N.Williams,?4.50,DEF,Nottingham Forest,29,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.276
+Omar,O.Richards,?4.50,DEF,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Lewis,O'Brien,?5.00,MID,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Andrew,Omobamidele,?4.20,DEF,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jonathan,Panzo,?4.00,DEF,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ibrahim,Sangaré,?4.30,MID,Nottingham Forest,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Matz,Sels,?5.10,GK,Nottingham Forest,32,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.344
+Harry,Toffolo,?4.20,DEF,Nottingham Forest,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Hwang,Ui-jo,?4.50,FWD,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Chris,Wood,?6.90,FWD,Nottingham Forest,30,37,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.867
+Joe,Worrall,?4.50,DEF,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ryan,Yates,?4.80,MID,Nottingham Forest,30,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.067
+Nikola,Milenkovi?,?5.10,DEF,Nottingham Forest,31,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.161
+João Pedro,Jota Silva,?5.90,MID,Nottingham Forest,27,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.778
+Ramón,Sosa,?5.50,MID,Nottingham Forest,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.375
+Felipe,Morato,?4.50,DEF,Nottingham Forest,22,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.591
+Zach,Abbott,?4.00,DEF,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Wayne,Hennessey,?4.00,GK,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nuno Herlander,Nuno,?1.10,#N/A,Nottingham Forest,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Aaron,Ramsdale,?4.40,GK,Southampton,24,8,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.208
+Cameron,Archer,?4.90,FWD,Southampton,28,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.821
+Lesley,Ugochukwu,?4.40,MID,Southampton,21,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.524
+Ryan,Fraser,?4.80,MID,Southampton,8,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.875
+Samuel,Amo-Ameyaw,?4.40,MID,Southampton,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Joe,Aribo,?4.90,MID,Southampton,30,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+Adam,Armstrong,?5.10,FWD,Southampton,20,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.25
+Gavin,Bazunu,?4.30,GK,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jan,Bednarek,?4.00,DEF,Southampton,26,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.885
+Armel,Bella-Kotchap,?3.90,DEF,Southampton,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+James,Bree,?3.90,DEF,Southampton,14,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.071
+Shea,Charles,?4.50,MID,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Samuel,Edozie,?4.90,MID,Southampton,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Ronnie,Edwards,?3.90,DEF,Southampton,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Taylor,Harwood-Bellis,?4.00,DEF,Southampton,28,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.607
+Kamaldeen,Kamaldeen,?5.00,MID,Southampton,20,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.2
+Adam,Lallana,?5.00,MID,Southampton,14,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.214
+Juan,Larios,?3.90,DEF,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Mateusz,Lis,?4.00,GK,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Joe,Lumley,?4.00,GK,Southampton,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Ryan,Manning,?4.30,DEF,Southampton,20,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.3
+Sékou,Mara,?5.00,FWD,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alex,McCarthy,?4.20,GK,Southampton,5,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.4
+Paul,Onuachu,?4.90,FWD,Southampton,22,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.182
+Will,Smallbone,?5.00,MID,Southampton,14,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.571
+Jack,Stephens,?4.00,DEF,Southampton,14,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.071
+Ross,Stewart,?4.40,FWD,Southampton,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.833
+Sugawara,Sugawara,?4.20,DEF,Southampton,30,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.4
+Charlie,Taylor,?3.90,DEF,Southampton,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.714
+Kyle,Walker-Peters,?4.20,DEF,Southampton,29,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.621
+Nathan,Wood,?4.00,DEF,Southampton,9,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.444
+Maxwel,Cornet,?4.70,MID,Southampton,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.5
+Flynn,Downes,?4.70,MID,Southampton,21,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.762
+Ben,Brereton Díaz,?4.80,MID,Southampton,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.3
+Tyler,Dibling,?4.40,MID,Southampton,29,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.069
+Mateus Gonçalo,M.Fernandes,?5.00,MID,Southampton,30,7,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.633
+Joseph,O'Brien-Whitmarsh,?4.50,MID,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Welington Damascena,Welington,?4.00,DEF,Southampton,6,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.833
+Joachim,Kayi Sanda,?4.00,DEF,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Albert,Gr?nb?k,?4.90,MID,Southampton,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Ivan,Juri?,?0.50,#N/A,Southampton,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Jay,Jay Robinson,?4.50,FWD,Southampton,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Dominic,Solanke,?7.30,FWD,Spurs,23,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.043
+Ashley,A.Phillips,?4.00,DEF,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Brandon,Austin,?4.00,GK,Spurs,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Rodrigo,Bentancur,?4.90,MID,Spurs,23,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.957
+Lucas,Bergvall,?4.40,MID,Spurs,26,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.577
+Yves,Bissouma,?4.80,MID,Spurs,24,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.875
+Bryan,Bryan,?5.00,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ben,Davies,?4.30,DEF,Spurs,11,0,1,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.273
+Alfie,Devine,?4.50,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Radu,Dragusin,?4.30,DEF,Spurs,16,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.5
+Emerson,E.Royal,?4.50,DEF,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Fraser,Forster,?4.30,GK,Spurs,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.714
+Archie,Gray,?4.60,MID,Spurs,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.609
+Pierre-Emile,H?jbjerg,?5.00,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Brennan,Johnson,?6.20,MID,Spurs,29,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.517
+Dejan,Kulusevski,?6.20,MID,Spurs,28,9,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.964
+Giovani,Lo Celso,?4.90,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+James,Maddison,?7.40,MID,Spurs,30,15,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.3
+Pedro,Pedro Porro,?5.30,DEF,Spurs,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.133
+Sergio,Reguilón,?4.10,DEF,Spurs,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.333
+Richarlison,Richarlison,?6.80,FWD,Spurs,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.5
+Cristian,Romero,?4.90,DEF,Spurs,17,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.941
+Pape Matar,P.M.Sarr,?4.70,MID,Spurs,30,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.067
+Dane,Scarlett,?4.40,FWD,Spurs,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Manor,Solomon,?5.40,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Son,Son,?9.80,MID,Spurs,28,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.5
+Djed,Spence,?4.40,DEF,Spurs,19,6,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.421
+Destiny,Udogie,?4.80,DEF,Spurs,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.957
+Micky,Van de Ven,?4.50,DEF,Spurs,11,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.818
+Alejo,Veliz,?5.00,FWD,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Guglielmo,Vicario,?4.80,GK,Spurs,20,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.1
+Timo,Werner,?6.20,MID,Spurs,18,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.889
+Alfie,Whiteman,?3.90,GK,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Will,Lankshear,?4.50,FWD,Spurs,3,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Mikey,Moore,?4.50,MID,Spurs,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Wilson,Odobert,?5.30,MID,Spurs,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.6
+Callum,Olusesi,?4.50,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Malachi,Hardy,?4.00,DEF,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Luca,Williams-Barnett,?4.50,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Alfie,Dorrington,?4.00,DEF,Spurs,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Maeson,King,?4.00,DEF,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Antonín,Kinsky,?4.20,GK,Spurs,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3
+Min-Hyeok,Yang,?4.50,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Damola,Ajayi,?4.50,MID,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Ange,Postecoglou,?1.10,#N/A,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Dante,Cassanova,?4.00,DEF,Spurs,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Kevin,Danso,?4.40,DEF,Spurs,4,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.75
+Mathys,Tel,?5.80,MID,Spurs,7,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.714
+Evan,Ferguson,?5.50,FWD,West Ham,19,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.368
+Aaron,Wan-Bissaka,?4.50,DEF,West Ham,31,10,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.968
+Edson,?lvarez,?5.00,MID,West Ham,25,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.48
+Michail,Antonio,?5.20,FWD,West Ham,14,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3
+Alphonse,Areola,?4.20,GK,West Ham,21,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.429
+Jarrod,Bowen,?7.50,MID,West Ham,28,12,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,4.857
+Vladimír,Coufal,?4.10,DEF,West Ham,16,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.125
+Aaron,Cresswell,?3.90,DEF,West Ham,14,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.929
+George,Earthy,?4.50,MID,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Emerson,Emerson,?4.40,DEF,West Ham,27,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.333
+?ukasz,Fabianski,?4.00,GK,West Ham,13,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.769
+Wes,Foderingham,?4.20,GK,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Danny,Ings,?4.90,FWD,West Ham,15,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.133
+Max,Kilman,?4.30,DEF,West Ham,32,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.188
+Mohammed,Kudus,?6.20,MID,West Ham,26,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.077
+Luis Guilherme,L.Guilherme,?4.60,MID,West Ham,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Lucas,L.Paquetá,?5.70,MID,West Ham,28,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.643
+Konstantinos,Mavropanos,?4.30,DEF,West Ham,29,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.379
+Nayef,N.Aguerd,?4.40,DEF,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Tomá?,Sou?ek,?4.90,MID,West Ham,29,13,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.552
+James,Ward-Prowse,?6.10,MID,West Ham,18,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.833
+Kurt,Zouma,?4.40,DEF,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Andy,Irving,?4.70,MID,West Ham,10,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0.9
+Crysencio,Summerville,?5.50,MID,West Ham,19,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.737
+Guido,G.Rodríguez,?4.80,MID,West Ham,21,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.381
+Niclas,Füllkrug,?6.70,FWD,West Ham,12,3,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.5
+Jean-Clair,Todibo,?4.20,DEF,West Ham,21,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.952
+Kaelan,Casey,?4.00,DEF,West Ham,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Carlos,C.Soler,?5.00,MID,West Ham,27,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.593
+Ollie,Scarles,?4.00,DEF,West Ham,13,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2
+Ezra,Mayers,?4.00,DEF,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Lewis,Orford,?4.50,MID,West Ham,2,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Graham,Potter,?0.50,#N/A,West Ham,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Sam,Johnstone,?4.10,GK,Wolves,7,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.714
+Rayan,Aït-Nouri,?4.80,DEF,Wolves,31,11,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,3.355
+Boubacar,B.Traore,?4.80,MID,Wolves,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Jean-Ricner,Bellegarde,?4.90,MID,Wolves,30,5,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.667
+Daniel,Bentley,?3.90,GK,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Francisco Jorge,Chiquinho,?4.50,MID,Wolves,1,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1
+Tawanda,Chirewa,?4.50,MID,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Leon,Chiwome,?4.40,FWD,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Luke,Cundle,?4.50,MID,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Matheus,Cunha,?6.80,FWD,Wolves,27,35,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,5.556
+Craig,Dawson,?4.20,DEF,Wolves,15,1,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.133
+Matt,Doherty,?4.30,DEF,Wolves,25,4,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.52
+Tommy,Doyle,?4.70,MID,Wolves,23,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,1.217
+Fábio,Fábio Silva,?5.00,FWD,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Nathan,Fraser,?4.50,FWD,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Enso,Gonzalez,?4.40,MID,Wolves,0,0,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,0
+Gonçalo Manuel,Guedes,?5.30,MID,Wolves,24,2,0,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,0,#DIV/0!,2.292
+Hugo,H.Bueno,?4.50,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Hwang,Hee Chan,?6.10,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Joe,Hodge,?4.50,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Ki-Jana,Hoever,?4.00,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+João Victor,J.Gomes,?4.90,MID,Wolves,,7,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+José,José Sá,?4.40,GK,Wolves,,3,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Sa?a,Kalajd?i?,?4.80,FWD,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Tom,King,?4.00,GK,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Mario,Mario Jr.,?4.80,MID,Wolves,,5,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Yerson,Mosquera,?3.80,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Nélson,N.Semedo,?4.50,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Pedro,Pedro Lima,?3.90,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Daniel,Podence,?5.50,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Rodrigo,R.Gomes,?5.10,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Santiago,S.Bueno,?4.30,DEF,Wolves,,2,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Pablo,Sarabia,?5.00,MID,Wolves,,3,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+J?rgen,Strand Larsen,?5.40,FWD,Wolves,,15,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Toti António,Toti,?4.30,DEF,Wolves,,5,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Bastien,Meupiyou,?3.90,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+André,André,?5.00,MID,Wolves,,1,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Carlos Roberto,Forbs,?5.40,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Alfie,Pond,?3.90,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Tom,Edozie,?4.50,MID,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Wes,Okoduwa,?4.00,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Emmanuel,Agbadou,?4.00,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Vítor Manuel,Pereira,?0.80,#N/A,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Nasser,Djiga,?4.50,DEF,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Marshall,Munetsi,?5.00,MID,Wolves,,2,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
+Mateus,Mané,?4.50,FWD,Wolves,,0,,example,example,example,example,example,example,example,example,example,example,example,example,example,example,example,,,
