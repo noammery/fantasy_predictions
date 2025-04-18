@@ -93,10 +93,10 @@ function App() {
         enableRowVirtualization
         virtualizerProps={{
           measureElement: (el) => {
-            return el?.getBoundingClientRect().height || 48; // fallback height
+            return el?.getBoundingClientRect().height || 48;
           },
         }}
-        enableColumnVirtualization={true} // ✅ keep it fast
+        enableColumnVirtualization={true}
         columns={columns}
         data={data}
         enablePagination={false}
