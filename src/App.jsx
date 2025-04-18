@@ -68,7 +68,7 @@ function App() {
   return (
     <Box sx={{ padding: 4 }}>
       <Typography variant="h4" gutterBottom>
-        Best FL prediction table
+        Best FPL prediction table
       </Typography>
 
       <Box className="intro-banner">
@@ -83,9 +83,10 @@ function App() {
         </Typography>
       </Box>
       <MaterialReactTable
+        columnSizingMode="static"
         defaultColumn={{
-          minSize: isMobile ? 60 : 100,
-          size: isMobile ? 70 : 120,
+          minSize: isMobile ? 60 : 70,
+          size: isMobile ? 70 : 80,
           maxSize: isMobile ? 90 : 300,
         }}
         enableColumnActions={false}
@@ -123,10 +124,19 @@ function App() {
         }}
         muiTableHeadCellProps={{
           sx: {
-            whiteSpace: "nowrap",
             padding: "4px",
-            maxWidth: 150,
             fontWeight: "bold",
+            fontSize: "0.85rem",
+            maxWidth: 100,
+            lineHeight: 1.2,
+            textAlign: "center",
+            whiteSpace: "normal",
+            wordWrap: "break-word",
+            overflowWrap: "break-word",
+            "& .MuiBox-root": {
+              whiteSpace: "normal",
+              display: "block",
+            },
           },
         }}
         muiTableBodyCellProps={({ row }) => ({
@@ -136,6 +146,10 @@ function App() {
             padding: "4px",
             maxWidth: 150,
             fontWeight: "bold",
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            textAlign: "center",
           },
         })}
       />
