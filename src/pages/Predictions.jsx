@@ -1,30 +1,29 @@
 import { useEffect, useState, useMemo } from "react";
 import Papa from "papaparse";
 import { MaterialReactTable } from "material-react-table";
-import { Box, Typography, CircularProgress } from "@mui/material";
-import "./Predictions.css";
+import { CircularProgress } from "@mui/material";
 
 const teamColors = {
-  Arsenal: "#ff000010",
-  "Aston Villa": "#6700ff10",
-  Bournemouth: "#ff880010",
-  Brentford: "#d0000010",
-  Brighton: "#0099ff10",
-  Chelsea: "#0033cc10",
-  "Crystal Palace": "#9900cc10",
-  Everton: "#0055ff10",
-  Fulham: "#99999910",
-  Ipswich: "#0044bb10",
-  Leicester: "#0066cc10",
-  Liverpool: "#c8102e10",
-  "Man City": "#6cabdd10",
-  "Man Utd": "#da291c10",
-  Newcastle: "#241f1f10",
-  "Nottingham Forest": "#ed1c2410",
-  Southampton: "#d7192010",
-  Spurs: "#00184810",
-  "West Ham": "#7a263a10",
-  Wolves: "#fdb91310",
+  Arsenal: "#ff000030",
+  "Aston Villa": "#6700ff30",
+  Bournemouth: "#ff880030",
+  Brentford: "#d0000030",
+  Brighton: "#0099ff30",
+  Chelsea: "#0033cc30",
+  "Crystal Palace": "#9900cc30",
+  Everton: "#0055ff30",
+  Fulham: "#99999930",
+  Ipswich: "#0044bb30",
+  Leicester: "#0066cc30",
+  Liverpool: "#c8102e30",
+  "Man City": "#6cabdd30",
+  "Man Utd": "#da291c30",
+  Newcastle: "#241f1f30",
+  "Nottingham Forest": "#ed1c2430",
+  Southampton: "#d7192030",
+  Spurs: "#00184830",
+  "West Ham": "#7a263a30",
+  Wolves: "#fdb91330",
 };
 
 function Predictions() {
@@ -43,6 +42,7 @@ function Predictions() {
         setLoading(false);
       });
   }, []);
+
   const columns = useMemo(() => {
     return headers.map((header) => ({
       accessorKey: header,
@@ -51,37 +51,33 @@ function Predictions() {
       enableColumnFilter: true,
     }));
   }, [headers]);
+
   if (loading) {
     return (
-      <Box
-        sx={{
-          display: "flex",
-          justifyContent: "center",
-          alignItems: "center",
-          minHeight: "100vh",
-        }}
-      >
+      <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364]">
         <CircularProgress size={60} sx={{ color: "#00ff99" }} />
-      </Box>
+      </div>
     );
   }
-  return (
-    <Box sx={{ padding: 4 }}>
-      <Typography variant="h4" gutterBottom>
-        Best FPL prediction table
-      </Typography>
 
-      <Box className="intro-banner">
-        <Typography variant="h5" className="intro-title">
+  return (
+    <div className="p-6 bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] min-h-screen text-white overflow-x-auto w-full max-w-screen font-['Noto_Sans',sans-serif]">
+      <h1 className="text-4xl md:text-5xl text-center font-extrabold text-white mb-8 [text-shadow:_1px_1px_2px_black]">
+        Best FPL prediction table
+      </h1>
+
+      <div className="bg-[#1b2a36] border border-[#2c3e50] p-6 rounded-xl shadow-md mb-8 text-white text-center">
+        <h2 className="text-2xl font-extrabold mb-2 text-white">
           Welcome to the Ultimate Fantasy Football Predictor 🧠⚽
-        </Typography>
-        <Typography variant="body1" className="intro-text">
+        </h2>
+        <p className="text-[1.1rem] font-medium text-gray-300 max-w-[800px] mx-auto">
           This is not just another fantasy league table.{" "}
-          <b>Tamir's Prediction Engine</b> is the most accurate, lightning-fast,
-          data-crushing table in the game. Updated weekly. Optimized daily.
-          Fearless forever.
-        </Typography>
-      </Box>
+          <b className="text-white">Tamir's Prediction Engine</b> is the most
+          accurate, lightning-fast, data-crushing table in the game. Updated
+          weekly. Optimized daily. Fearless forever.
+        </p>
+      </div>
+
       <MaterialReactTable
         columnSizingMode="static"
         defaultColumn={{
@@ -113,6 +109,9 @@ function Predictions() {
             maxHeight: "70vh",
             overflowY: "auto",
             overflowX: "auto",
+            backgroundColor: "rgba(255, 255, 255, 0.05)",
+            borderRadius: "10px",
+            boxShadow: "0 0 15px rgba(0, 255, 153, 0.2)",
           },
         }}
         muiTableHeadProps={{
@@ -126,13 +125,14 @@ function Predictions() {
           sx: {
             padding: "4px",
             fontWeight: "bold",
-            fontSize: "0.85rem",
+            fontSize: isMobile ? "12px" : "0.85rem",
             maxWidth: 100,
             lineHeight: 1.2,
             textAlign: "center",
             whiteSpace: "normal",
             wordWrap: "break-word",
             overflowWrap: "break-word",
+            color: "#000000",
             "& .MuiBox-root": {
               whiteSpace: "normal",
               display: "block",
@@ -150,10 +150,11 @@ function Predictions() {
             justifyContent: "center",
             alignItems: "center",
             textAlign: "center",
+            color: "#000000",
           },
         })}
       />
-    </Box>
+    </div>
   );
 }
 
