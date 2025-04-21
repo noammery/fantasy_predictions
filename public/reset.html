@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Account Setup</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <style>
+      body {
+        background: #0f172a;
+        color: white;
+        font-family: "Segoe UI", sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px 20px;
+        text-align: center;
+      }
+
+      .logo {
+        width: 160px;
+        margin-bottom: 20px;
+      }
+
+      h1 {
+        font-size: 1.8rem;
+        color: #00ff99;
+      }
+
+      #netlify-identity-modal {
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="/Logo.png" alt="Logo" class="logo" />
+    <h1>Complete Your Account</h1>
+    <p>Use the form below to finish setting up or resetting your account.</p>
+
+    <script>
+      netlifyIdentity.on("init", (user) => {
+        if (!user) {
+          netlifyIdentity.open("login");
+        }
+      });
+      netlifyIdentity.init();
+    </script>
+  </body>
+</html>
