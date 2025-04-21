@@ -1,11 +1,54 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <title>Content Manager</title>
+    <meta charset="UTF-8" />
+    <title>Update FPL Predictions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      body {
+        margin: 0;
+        font-family: "Segoe UI", sans-serif;
+        background: #0f172a;
+        color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 40px;
+      }
+
+      .logo {
+        width: 160px;
+        margin-bottom: 20px;
+      }
+
+      h1 {
+        color: #00ff99;
+        font-size: 2rem;
+        text-align: center;
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        color: #ccc;
+        max-width: 400px;
+        text-align: center;
+        font-size: 1rem;
+        margin-bottom: 30px;
+      }
+
+      #cms {
+        width: 100%;
+      }
+    </style>
   </head>
   <body>
-    <!-- Loads the Netlify CMS UI -->
+    <img src="/Logo.png" alt="Logo" class="logo" />
+    <h1>Upload New FPL CSV</h1>
+    <p>
+      Log in below using your Gmail and upload the new prediction file to update
+      the site.
+    </p>
+    <div id="cms"></div>
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
   </body>
 </html>
