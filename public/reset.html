@@ -39,22 +39,9 @@
 
     <script>
       netlifyIdentity.on("init", (user) => {
-        const hash = window.location.hash;
-
+        // Always open the modal so it processes the token from URL
         if (!user) {
-          if (hash.includes("invite_token")) {
-            const token = hash.split("invite_token=")[1];
-            netlifyIdentity.acceptInvite({ token }).then(() => {
-              netlifyIdentity.open("signup");
-            });
-          } else if (hash.includes("recovery_token")) {
-            const token = hash.split("recovery_token=")[1];
-            netlifyIdentity.recoverAccount({ token }).then(() => {
-              netlifyIdentity.open("login");
-            });
-          } else {
-            netlifyIdentity.open("login");
-          }
+          netlifyIdentity.open(); // auto-detects invite/recovery
         }
       });
 
