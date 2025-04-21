@@ -15,4 +15,7 @@ collections:
         format: "raw"
         editor:
           preview: false
-        fields: []
+        fields:
+          - name: dummy
+            label: Dummy
+            widget: hidden
