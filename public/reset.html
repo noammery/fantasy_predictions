@@ -38,14 +38,13 @@
     <p>Use the form below to finish setting up or resetting your account.</p>
 
     <script>
-      netlifyIdentity.on("init", (user) => {
-        // Always open the modal so it processes the token from URL
-        if (!user) {
-          netlifyIdentity.open(); // auto-detects invite/recovery
-        }
-      });
-
       netlifyIdentity.init();
+      setTimeout(() => {
+        const user = netlifyIdentity.currentUser();
+        if (!user) {
+          netlifyIdentity.open();
+        }
+      }, 300);
     </script>
   </body>
 </html>
