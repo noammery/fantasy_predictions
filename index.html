@@ -26,5 +26,17 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script>
+      // Redirect invite_token to /admin
+      if (window.location.hash.includes("invite_token")) {
+        const token = window.location.hash.split("invite_token=")[1];
+        window.location.href = `/reset.html##invite_token=${token}`;
+      }
+      // Redirect recovery_token to /reset.html
+      if (window.location.hash.includes("recovery_token")) {
+        const token = window.location.hash.split("recovery_token=")[1];
+        window.location.href = `/reset.html#recovery_token=${token}`;
+      }
+    </script>
   </body>
 </html>
