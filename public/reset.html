@@ -39,10 +39,18 @@
 
     <script>
       netlifyIdentity.init();
+
       setTimeout(() => {
         const user = netlifyIdentity.currentUser();
+        const hash = window.location.hash;
+
         if (!user) {
-          netlifyIdentity.open();
+          // Force "signup" view if there's an invite token
+          if (hash.includes("invite_token")) {
+            netlifyIdentity.open("signup");
+          } else {
+            netlifyIdentity.open("login");
+          }
         }
       }, 300);
     </script>
