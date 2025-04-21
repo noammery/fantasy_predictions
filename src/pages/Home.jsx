@@ -47,7 +47,7 @@ export default function Home() {
         </div>
       </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
-        <div className="grid md:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 gap-8">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -78,13 +78,15 @@ export default function Home() {
               maximize your points.
             </p>
           </motion.div>
-
+        </div>
+        {/*
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.3 }}
             className="bg-white/5 backdrop-blur-lg rounded-2xl p-6 hover:bg-white/10 transition-all duration-300"
           >
+       
             <div className="h-12 w-12 rounded-full bg-yellow-500/10 flex items-center justify-center mb-4">
               <Award className="h-6 w-6 text-yellow-400" />
             </div>
@@ -123,6 +125,8 @@ export default function Home() {
           </div>
         </div>
       </motion.div>
+      */}
+      </div>
     </div>
   );
 }

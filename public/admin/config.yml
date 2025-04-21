@@ -1,0 +1,17 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "data"
+    label: "Prediction CSV"
+    files:
+      - label: "Main Prediction CSV"
+        name: "prediction"
+        file: "public/data.csv"
+        format: "raw"
+        editor:
+          preview: false
