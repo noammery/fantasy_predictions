@@ -39,10 +39,25 @@
 
     <script>
       netlifyIdentity.on("init", (user) => {
+        const hash = window.location.hash;
+
         if (!user) {
-          netlifyIdentity.open("login");
+          if (hash.includes("invite_token")) {
+            const token = hash.split("invite_token=")[1];
+            netlifyIdentity.acceptInvite({ token }).then(() => {
+              netlifyIdentity.open("signup");
+            });
+          } else if (hash.includes("recovery_token")) {
+            const token = hash.split("recovery_token=")[1];
+            netlifyIdentity.recoverAccount({ token }).then(() => {
+              netlifyIdentity.open("login");
+            });
+          } else {
+            netlifyIdentity.open("login");
+          }
         }
       });
+
       netlifyIdentity.init();
     </script>
   </body>
