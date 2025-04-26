@@ -1,7 +1,7 @@
 import { useEffect, useState, useMemo } from "react";
 import Papa from "papaparse";
 import { MaterialReactTable } from "material-react-table";
-import { CircularProgress } from "@mui/material";
+import { CircularProgress, GlobalStyles } from "@mui/material";
 
 const teamColors = {
   Arsenal: "#ff000030",
@@ -44,13 +44,31 @@ function Predictions() {
   }, []);
 
   const columns = useMemo(() => {
-    return headers.map((header) => ({
-      accessorKey: header,
-      header,
-      enableColumnOrdering: true,
-      enableColumnFilter: true,
-    }));
-  }, [headers]);
+    return headers.map((header) => {
+      if (header === "Position" || header === "Team") {
+        const uniqueVals = [...new Set(data.map((r) => r[header]))].filter(
+          Boolean
+        );
+        return {
+          accessorKey: header,
+          header,
+          enableSorting: false,
+          enableColumnOrdering: true,
+          enableColumnFilter: true,
+          filterVariant: "multi-select",
+          filterSelectOptions: uniqueVals,
+          filterFn: "arrIncludesSome",
+        };
+      }
+
+      return {
+        accessorKey: header,
+        header,
+        enableColumnOrdering: true,
+        enableColumnFilter: false,
+      };
+    });
+  }, [headers, data]);
 
   if (loading) {
     return (
@@ -62,6 +80,16 @@ function Predictions() {
 
   return (
     <div className="p-6 bg-gradient-to-br from-[#0f2027] via-[#203a43] to-[#2c5364] min-h-screen text-white overflow-x-auto w-full max-w-screen font-['Noto_Sans',sans-serif]">
+      <GlobalStyles
+        styles={{
+          ".MuiTableHead-root .MuiInputBase-inputAdornedEnd": {
+            paddingRight: "0 !important",
+          },
+          ".MuiTableHead-root .MuiSelect-icon": {
+            display: "none", // remove if you prefer to keep the arrow
+          },
+        }}
+      />
       <h1 className="text-4xl md:text-5xl text-center font-extrabold text-white mb-8 [text-shadow:_1px_1px_2px_black]">
         Best FPL prediction table
       </h1>
@@ -89,18 +117,15 @@ function Predictions() {
         enableColumnPinning
         enableRowVirtualization
         virtualizerProps={{
-          measureElement: (el) => {
-            return el?.getBoundingClientRect().height || 48;
-          },
+          measureElement: (el) => el?.getBoundingClientRect().height || 48,
         }}
         enableColumnVirtualization={true}
         columns={columns}
         data={data}
         enablePagination={false}
         initialState={{
-          columnPinning: {
-            left: ["Name"],
-          },
+          showColumnFilters: true,
+          columnPinning: { left: ["Name"] },
         }}
         enableFilters
         enableSorting
@@ -115,11 +140,7 @@ function Predictions() {
           },
         }}
         muiTableHeadProps={{
-          sx: {
-            position: "sticky",
-            top: 0,
-            zIndex: 2,
-          },
+          sx: { position: "sticky", top: 0, zIndex: 2 },
         }}
         muiTableHeadCellProps={{
           sx: {
@@ -133,10 +154,7 @@ function Predictions() {
             wordWrap: "break-word",
             overflowWrap: "break-word",
             color: "#000000",
-            "& .MuiBox-root": {
-              whiteSpace: "normal",
-              display: "block",
-            },
+            "& .MuiBox-root": { whiteSpace: "normal", display: "block" },
           },
         }}
         muiTableBodyCellProps={({ row }) => ({
